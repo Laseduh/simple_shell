@@ -1,1 +1,1 @@
-Her readme file on simple shell
+Their readme file on simple shell
