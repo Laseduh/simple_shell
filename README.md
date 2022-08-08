@@ -1,1 +1,1 @@
-My readme file on simple shell
+His readme file on simple shell
