@@ -1,2 +1,2 @@
-Team readme file on simple shell
+Project reaidme file on simple shell
 
