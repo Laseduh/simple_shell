@@ -1,2 +1,2 @@
-Team reaidme file on simple shell
+Team readme file on simple shell
 
