@@ -1,2 +1,2 @@
-Project readme file on the simple shell
+Project readme file on the simple shell project
 
